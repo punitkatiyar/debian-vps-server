@@ -3,7 +3,9 @@
 ## Basic Commands of linux
 
 > ls
+
 > cd /
+
 > cd / dir-name
 
 
