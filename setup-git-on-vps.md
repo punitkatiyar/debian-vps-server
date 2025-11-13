@@ -1,6 +1,6 @@
 # Installing Git on a VPS (Ubuntu/Debian/CentOS etc.)
 
-## Commands 
+## Git Setup
 
 > sudo apt install git -y
 
