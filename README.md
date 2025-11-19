@@ -26,4 +26,6 @@
 
 > ps : show background process
 
+> kill -9 pid : close the service  
+
 
