@@ -2,6 +2,10 @@
 
 ## Basic Commands of linux
 
+> sudo apt update
+
+> sudo apt upgrade -y
+
 > ls
 
 > cd /
