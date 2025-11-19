@@ -6,6 +6,8 @@
 
 > sudo apt upgrade -y
 
+> clear 
+
 > ls
 
 > cd /
