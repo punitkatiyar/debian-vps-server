@@ -20,4 +20,10 @@
 
 > ssh-keygen -f '/home/test/.ssh/known_hosts' -R 'ip'
 
+# server fix 
+
+> apt clean
+
+> ps : show background process
+
 
