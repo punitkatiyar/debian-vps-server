@@ -14,4 +14,8 @@
 
 > cd / dir-name
 
+## Login 
+
+> ssh-keygen -f '/home/test/.ssh/known_hosts' -R 'ip'
+
 
